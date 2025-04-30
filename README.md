@@ -1,50 +1,77 @@
-<h1 align="center">Hi there 👋, I'm Ashar Kamran</h1>
-<h3 align="center">🚀 Web Developer | React Learner | Freelancer</h3>
+<h1 align="center">Hey 👋, I'm Ashar Kamran</h1>
+<h3 align="center">💻 Web Developer | 📹 Content Creator | 🚀 Freelancer</h3>
+
+<p align="center">
+  <a href="https://asharkamran.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Ashar%20Kamran-6e40c9?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@ashar-devx" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ashar.devx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ashar.devx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ashar.devx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@ashar.devx" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-ashar.devx-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+love+Web+Development;Currently+learning+React;Open+to+Paid+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36F7D1&center=true&vCenter=true&width=600&lines=I'm+a+Frontend+Web+Developer;I'm+a+YouTube+Content+Creator;Let's+build+something+awesome+💻" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 About Me
 
-- 👋 Hi, I’m **@ashar160**
-- 👀 I’m passionate about **Web Development**
-- 🌱 Currently learning **React.js**
-- 💼 Open to collaborate on **Paid Projects**
-- 🌐 Portfolio: [asharkamran.netlify.app](https://asharkamran.netlify.app/)
-
----
-
-### 🚀 Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 👨‍💻 I’m **@ashar160**
+- 🌍 From **Pakistan**, building cool things for the web
+- 🎯 Currently mastering **React & advanced UI/UX**
+- 🤝 Open to **paid projects** & **collaborations**
+- 💬 Ask me about **frontend**, **freelancing**, or **content creation**
+- 📫 Reach me via [asharkamran.netlify.app](https://asharkamran.netlify.app/)
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=tokyonight&hide_border=true" alt="ashar160's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashar160&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,mysql,wordpress,shopify,squarespace,wix&theme=dark" />
 </div>
 
 ---
 
-### 🌍 Let's Connect
+### 📊 GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://asharkamran.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashar-kamran/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashar160&theme=github-dark&hide_border=true" width="48%"/>
+</div>
 
 ---
 
-> ⚡ _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+### 🧠 Currently Learning
+
+- 🚀 **React.js**
+- 🎨 **Framer Motion & GSAP**
+- 📈 **SEO & Personal Branding**
+
+---
+
+### 🔗 Let’s Connect & Collab
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://asharkamran.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> _“Keep learning. Keep building. Create your own future.”_
 
