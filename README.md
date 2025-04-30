@@ -60,7 +60,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ashar160&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashar160&theme=darkhub&margin-w=10&no-frame=true" width="48%" />
 </div>
 
 ---
