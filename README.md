@@ -1,4 +1,9 @@
-<h1 align="center">Hey 👋, I'm Ashar Kamran</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=500&color=fff&center=true&vCenter=true&width=600&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Content+Creator;I'm+a+Wordpress+Developer;I'm+a+Shopify+Developer;I'm+a+Wix+Developer;I'm+a+Squarespace+Developer;Let's+build+something+awesome+💻" alt="Typing SVG" />
+</div>
+
+---
+
 <h3 align="center"> Full Stack Web Developer | Content Creator | Freelancer</h3>
 
 <p align="center">
@@ -15,12 +20,6 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=39D353&center=true&vCenter=true&width=600&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Content+Creator;I'm+a+Wordpress+Developer;I'm+a+Shopify+Developer;I'm+a+Wix+Developer;I'm+a+Squarespace+Developer;Let's+build+something+awesome+💻" alt="Typing SVG" />
-</div>
 
 ---
 
