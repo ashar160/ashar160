@@ -59,17 +59,20 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ashar160&theme=darkhub&margin-w=10&no-frame=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
 </div>
 
 ---
 
 ### 🧠 Currently Learning
 
-- 🚀 **React.js**
-- 🎨 **Framer Motion & GSAP**
-- 📈 **SEO & Personal Branding**
+- **React.js**
+- **Next.js**
+- **Framer Motion & GSAP**
+- **SEO & Personal Branding**
+- **Mobile Application**
+- **Social Media Marketing**
+- **Advance Video Editing**
 
 ---
 
