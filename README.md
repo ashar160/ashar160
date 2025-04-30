@@ -59,8 +59,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=ashar160&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
 </div>
 
 
