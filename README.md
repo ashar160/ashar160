@@ -80,7 +80,7 @@
 ### 🔗 Let’s Connect & Collab
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ashar.devx@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://asharkamran.netlify.app/">
