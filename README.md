@@ -56,39 +56,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashar160&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
-</div>
-
-
----
-
-### 🧠 Currently Learning
-
-- **React.js**
-- **Next.js**
-- **Framer Motion & GSAP**
-- **SEO & Personal Branding**
-- **Mobile Application**
-- **Social Media Marketing**
-- **Advance Video Editing**
-
----
-
-### 🔗 Let’s Connect & Collab
-
-<p align="center">
-  <a href="mailto:ashar.devx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://asharkamran.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
 > _“Keep learning. Keep building. Create your own future.”_
 
